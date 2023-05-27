@@ -6,6 +6,7 @@ Incluye los siguientes proyectos:
 * **_AppGroupExample_**: uso de AppGroups para conectar iPhone y AppleWatch.
 * **_ChartsDemo_**: ejemplo de gráficas de datos usando librerías de terceros (previo a la publicación de la API SwiftCharts).
 * **_CoreDataTutorial_**: ejemplo de uso de CoreData en una app.
+* **_AsyncAwaitDemo_**: ejemplo de llamada de red con y sin el patrón async/await.
 
 #
 
@@ -16,3 +17,4 @@ This repository includes the following:
 * **_AppGroupExample_**: example of using AppGroups to connect an iPhone and an AppleWatch.
 * **_ChartsDemo_**: exammple of building some charts with third-party APIs (previously to SwiftCharts).
 * **_CoreDataTutorial_**: example of integrating CoreData into an app.
+* **_AsyncAwaitDemo_**: example of working with async/await for API calling.
